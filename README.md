@@ -5,6 +5,7 @@ I'm Eric, I write documentation and code. My favorite languages are C and [Odin]
 Some docs, tutorials, and style guides I like:
 
 - [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/index.html)
+- [Butterick's Practical Typography](https://practicaltypography.com/)
 - [How to Center a Div](https://lawrencehook.com/blog/how-to-center-a-div/)
 - [WebGL Fundamentals](https://webglfundamentals.org/)
 - [Plaid](https://plaid.com/docs/)
